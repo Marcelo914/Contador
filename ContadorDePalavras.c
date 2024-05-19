@@ -11,6 +11,14 @@ typedef struct {
     int thread_id;
 } ThreadData;
 
+
+
+
+
+
+
+
+
 //Retorna o Tamanho total do arquivo index.txt
 long fileSize(FILE *index){
     //move o ponteiro do arquivo para o final
